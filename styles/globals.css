@@ -105,3 +105,14 @@ a {
     color-scheme: dark;
   }
 }
+ img {
+    width: 800px;
+    height: 60px;
+ }
+
+ @media (max-width: 600px) {
+    img {
+        width: 400px;
+        height: 300px;
+    }
+ }
