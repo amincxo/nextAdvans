@@ -1,0 +1,6 @@
+User-agent: *
+Aloow: /
+Disallow: /dashboard
+
+
+Sitemap: https://aminborvayeh.ir/sitemap.xml
